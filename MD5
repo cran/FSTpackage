@@ -1,0 +1,11 @@
+e7e24a1ad17f53de85a056af766ba5df *DESCRIPTION
+9ab3b4b6cd86f0e9ba6c927f5efe7f4e *NAMESPACE
+b65cb738175966ebb9e0b06ac9870b7f *R/FST.R
+ceea78cf1d80bc381b6da0d0164f71ed *R/FST_GeneSet.R
+8ddb1fdfd1942e7ba0695b7b6c9866ff *data/FST.example.rda
+d1391105df131c9e072bd8f8fd41d20b *data/datalist
+aae410ee0de8911d7548477641181d09 *man/FST.GeneSet.test.Rd
+61d3c8f589006804994864233907c246 *man/FST.SummaryStat.test.Rd
+e6dae4a14e6e612201323de5154b333c *man/FST.example.Rd
+30f2866799a72ea40f3d52a161752fce *man/FST.prelim.Rd
+92eb02c45643fbcad8a55c064e77f51b *man/FST.test.Rd

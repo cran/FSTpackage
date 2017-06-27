@@ -1,0 +1,4 @@
+#exportPattern("^[[:alpha:]]+")
+export(FST.prelim,FST.test,FST.SummaryStat.test,FST.GeneSet.test)
+import(CompQuadForm, SKAT, Matrix, MASS, mvtnorm)
+importFrom("stats","glm","binomial","cor", "lm", "rbinom", "gaussian", "pchisq", "quantile", "sd", "var", "dbeta", "dchisq", "integrate", "qchisq","qnorm")
